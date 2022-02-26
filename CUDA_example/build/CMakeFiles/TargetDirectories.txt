@@ -1,0 +1,4 @@
+/home/zsq/Documents/VScode_file/CUDA/build/CMakeFiles/rebuild_cache.dir
+/home/zsq/Documents/VScode_file/CUDA/build/CMakeFiles/edit_cache.dir
+/home/zsq/Documents/VScode_file/CUDA/build/CMakeFiles/main.dir
+/home/zsq/Documents/VScode_file/CUDA/build/CMakeFiles/cudaMatMul.dir

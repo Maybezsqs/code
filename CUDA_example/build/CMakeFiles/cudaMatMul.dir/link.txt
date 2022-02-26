@@ -1,0 +1,2 @@
+/bin/ar qc libcudaMatMul.a  CMakeFiles/cudaMatMul.dir/cudaMatMul.cu.o
+/bin/ranlib libcudaMatMul.a

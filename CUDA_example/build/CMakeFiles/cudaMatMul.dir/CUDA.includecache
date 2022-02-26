@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zsq/Documents/VScode_file/CUDA/cudaMatMul.cu
+cudaMatMul.h
+/home/zsq/Documents/VScode_file/CUDA/cudaMatMul.h
+
+/home/zsq/Documents/VScode_file/CUDA/cudaMatMul.h
+
