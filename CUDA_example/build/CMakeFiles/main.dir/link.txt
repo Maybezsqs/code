@@ -1,1 +1,0 @@
-/bin/x86_64-linux-gnu-g++-9  -g   CMakeFiles/main.dir/main.cc.o  -o main   -L/usr/local/cuda-11.2/targets/x86_64-linux/lib/stubs  -L/usr/local/cuda-11.2/targets/x86_64-linux/lib  libcudaMatMul.a -lcudadevrt -lcudart_static -lrt -lpthread -ldl 
